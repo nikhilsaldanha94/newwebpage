@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang = "en">
+  <head>
+    <meta charset = "utf-8">
+    <title>Making a new HTML</title>
+    <style>
+      h1{color:orange}
+      p{color:green}
+      table{color:red}
+    </style>
+  </head>
+  <body>
+    <h1>Welcome All!</h1>
+    <p>Welcome to my first web page on the internet<p>
+    <table border = "1">
+      <caption>Drawing a new table online</caption>
+      <tr><th><Row one</th><th>Row Two</th><th>Row Three</th></tr>
+      <tr><th>I am</th><th>drawing a</th><th>table</th></tr>
+    </table>
+  </body>
+</html> 
